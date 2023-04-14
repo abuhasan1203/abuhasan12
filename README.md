@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 :email: abu_h@live.co.uk<br>
 :link: https://www.linkedin.com/in/abu-hasan-91b97416a/<br>
 <br>
-:office_worker: My name's Abu Hasan. I'm a highly skilled and experienced MI Analyst and Python Developer with 2+ years of experience in data analysis, visualization, and cloud computing.<br>
-🔭 I'm seeking a career in the field of Data Science and/or Python Development.
+:office_worker: My name's Abu Hasan. I'm a highly skilled and experienced Python Developer with 3+ years of experience in software development, cloud computing, and working with data.<br>
 
 ## :man_juggling: Skills
 :pencil: Python and SQL<br>
