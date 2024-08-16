@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 ## :man_juggling: Skills
 :pencil: Python and SQL<br>
 :books: Data<br>
-:microscope: Data Science<br>
-:brain: Machine Learning<br>
+:brain: Data Science & Machine Learning<br>
 :cloud: AWS<br>
-:bulb: Data Analytics<br>
 :whale2: Docker<br>
 :octocat: Git, Github, Github Actions
 
