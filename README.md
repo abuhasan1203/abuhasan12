@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :email: abu_h@live.co.uk<br>
 :link: https://www.linkedin.com/in/abu-hasan-91b97416a/<br>
 <br>
-:office_worker: My name's Abu Hasan. I'm a Python Developer with experience in software engineering, cloud computing, and working with data.<br>
+:office_worker: My name's Abu Hasan. I'm a Python Developer with experience in software engineering, data engineering, and cloud computing.<br>
 
 ## :man_juggling: Skills
 :pencil: Python and SQL<br>
